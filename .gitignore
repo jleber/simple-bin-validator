@@ -1,3 +1,6 @@
+*.class
 simple-bin-validator.iml
 /target/
 /.idea/
+.settings
+hs_err_pid*
