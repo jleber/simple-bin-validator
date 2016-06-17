@@ -20,7 +20,7 @@ You can run project with this:
 ```
   $ mvn spring-boot:run
 ```
-  ######NOTE: For simple tests you can make a GET request in http://localhost:8080/bin/check/5555555555555555
+  >NOTE: For simple tests you can make a GET request in http://localhost:8080/bin/check/5555555555555555
   this should return the following JSON > {"brand":"Mastercard","cvv":"3","length":"16"}
   
 # License & Authors
