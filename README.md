@@ -1,4 +1,5 @@
-# https://travis-ci.org/jleber/simple-bin-validator.svg?branch=master
+[![Build Status](https://secure.travis-ci.org/jleber/simple-bin-validator.png?branch=master)](https://travis-ci.org/jleber/simple-bin-validator)
+
 # Simple-bin-validator
 
 #Overview
