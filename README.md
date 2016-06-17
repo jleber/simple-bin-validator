@@ -1,3 +1,4 @@
+# https://travis-ci.org/jleber/simple-bin-validator.svg?branch=master
 # Simple-bin-validator
 
 #Overview
