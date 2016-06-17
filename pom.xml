@@ -11,6 +11,8 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
+	
+    <packaging>war</packaging>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
