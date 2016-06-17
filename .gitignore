@@ -3,4 +3,5 @@ simple-bin-validator.iml
 /target/
 /.idea/
 .settings
+.travis.yml
 hs_err_pid*
